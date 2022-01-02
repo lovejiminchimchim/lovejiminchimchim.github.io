@@ -1386,7 +1386,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/B2B06郭憶鋆 電子喜帖_HTML5 Canvas_atlas_1.png", id:"B2B06郭憶鋆 電子喜帖_HTML5 Canvas_atlas_1"}
+		{src:"images/B2B06郭憶鋆 電子喜帖_HTML5 Canvas_atlas_1.png?1641112572656", id:"B2B06郭憶鋆 電子喜帖_HTML5 Canvas_atlas_1"}
 	],
 	preloads: []
 };

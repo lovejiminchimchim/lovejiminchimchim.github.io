@@ -451,7 +451,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/B2B06 春到了_atlas_1.png", id:"B2B06 春到了_atlas_1"}
+		{src:"images/B2B06 春到了_atlas_1.png?1641112387134", id:"B2B06 春到了_atlas_1"}
 	],
 	preloads: []
 };
